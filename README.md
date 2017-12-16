@@ -1,0 +1,2 @@
+# learn-python
+its cool
