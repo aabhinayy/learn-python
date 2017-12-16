@@ -1,0 +1,8 @@
+print("Enter two Numbers\n")
+a = int(raw_input('A='))
+b = int(raw_input('B='))
+c = int(raw_input('C='))
+d = int(raw_input('D='))
+e = int(raw_input('E='))
+x = (a+b+c+d+e)
+print(x)
